@@ -39,7 +39,7 @@
 // app.use(express.json());
 // app.use(
 //   cors({
-//     origin: "http://localhost:8080",
+//     origin: "https://emergency-frontend-clu9.onrender.com",
 //     credentials: true,
 //   })
 // );
